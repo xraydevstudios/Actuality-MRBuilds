@@ -13,6 +13,30 @@
       <charset>lcRussian</charset>
       <primId>25</primId>
     </russian>
+    <portuguese>
+      <file>Data\portuguese.txt</file>
+      <locale>portuguese</locale>
+      <charset>lcEastEurope</charset>
+      <primId>22</primId>
+    </portuguese>
+    <french>
+      <file>Data\french.txt</file>
+      <locale>french</locale>
+      <charset>lcEastEurope</charset>
+      <primId>12</primId>
+    </french>
+    <spain>
+      <file>Data\spain.txt</file>
+      <locale>spanish</locale>
+      <charset>lcEastEurope</charset>
+      <primId>10</primId>
+    </spain>
+    <german>
+      <file>Data\german.txt</file>
+      <locale>german</locale>
+      <charset>lcEastEurope</charset>
+      <primId>7</primId>
+    </german>
   </languages>
   <commentators>
     <Ukr_Belkin />
@@ -177,14 +201,20 @@
         <name>Almost honest</name>
         <band>Megadeth</band>
         <group>1</group>
-      </sound12>		  
+      </sound12>		
+	  <sound13>
+        <item item="Music\Track27.ogg">world\resManager\soundLib</item>
+        <name>Battletoads RMX</name>
+        <band>NES music</band>
+        <group>1</group>
+      </sound13>	  
     </tracks>
   </gameMusic>
   <commentator>
     <delay>0</delay>
     <comments>
       <playerDeath>
-        <chance>100</chance>
+        <chance>30</chance>
         <delay>20</delay>
         <busy>baSkip</busy>
         <repeatPlayer>true</repeatPlayer>
@@ -197,84 +227,84 @@
             <sound>Voice\death1.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>2</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death2.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>3</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death3.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>4</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death4.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>5</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death5.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>6</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death6.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death7.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>8</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death8.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>9</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death9.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>10</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death10.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>11</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death11.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>12</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\death12.ogg</sound>
           </voice0>
 		  <voice0>
-            <weight>1</weight>
+            <weight>13</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
@@ -283,44 +313,44 @@
         </voices>
       </playerDeath>
       <playerDeathMine>
-        <chance>100</chance>
+        <chance>30</chance>
         <delay>0</delay>
         <busy>baSkip</busy>
         <repeatPlayer>true</repeatPlayer>
         <voices>
           <voice0>
-            <weight>50</weight>
-            <sPlayer>false</sPlayer>
-            <ePlayer>false</ePlayer>
+            <weight>20</weight>
+            <sPlayer>true</sPlayer>
+            <ePlayer>true</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\lowLuck1.ogg</sound>
           </voice0>
 		  <voice2>
-            <weight>50</weight>
+            <weight>20</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
-            <forHuman>false</forHuman>
+            <ePlayer>true</ePlayer>
+            <forHuman>true</forHuman>
             <sound>Voice\lowLuck2.ogg</sound>
           </voice2>
 		  <voice3>
-            <weight>50</weight>
+            <weight>20</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
-            <forHuman>false</forHuman>
+            <ePlayer>true</ePlayer>
+            <forHuman>true</forHuman>
             <sound>Voice\lowLuck3.ogg</sound>
           </voice3>
 		  <voice3>
-            <weight>50</weight>
+            <weight>20</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
-            <forHuman>false</forHuman>
+            <ePlayer>true</ePlayer>
+            <forHuman>true</forHuman>
             <sound>Voice\lowLuck4.ogg</sound>
           </voice3>
 		  <voice3>
-            <weight>50</weight>
+            <weight>20</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
-            <forHuman>false</forHuman>
+            <ePlayer>true</ePlayer>
+            <forHuman>true</forHuman>
             <sound>Voice\lowLuck5.ogg</sound>
           </voice3>
         </voices>
@@ -369,7 +399,7 @@
         </voices>
       </playerDomination>
       <playerFinishFirst>
-        <chance>100</chance>
+        <chance>40</chance>
         <delay>0</delay>
         <busy>baQueue</busy>
         <repeatPlayer>true</repeatPlayer>
@@ -555,97 +585,97 @@
         </voices>
       </playerFinishThird>
       <playerKill>
-        <chance>100</chance>
+        <chance>75</chance>
         <delay>25</delay>
         <busy>baSkip</busy>
         <repeatPlayer>true</repeatPlayer>
         <voices>
           <voice0>
-            <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <weight>7</weight>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill1.ogg</sound>
           </voice0>
           <voice1>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill2.ogg</sound>
           </voice1>
           <voice2>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill3.ogg</sound>
           </voice2>
 		  <voice3>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill4.ogg</sound>
           </voice3>
 		  <voice4>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill5.ogg</sound>
           </voice4>
 		  <voice5>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill6.ogg</sound>
           </voice5>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill7.ogg</sound>
           </voice6>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill8.ogg</sound>
           </voice6>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill9.ogg</sound>
           </voice6>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill10.ogg</sound>
           </voice6>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill11.ogg</sound>
           </voice6>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\playerKill12.ogg</sound>
           </voice6>
 		  <voice6>
-            <weight>33</weight>
+            <weight>7</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
@@ -654,7 +684,7 @@
         </voices>
       </playerKill>
       <playerLastFar>
-        <chance>100</chance>
+        <chance>25</chance>
         <delay>20</delay>
         <busy>baSkip</busy>
         <repeatPlayer>false</repeatPlayer>
@@ -732,7 +762,7 @@
         </voices>
       </playerLastFar>
       <playerLeadChanged>
-        <chance>100</chance>
+        <chance>50</chance>
         <delay>20</delay>
         <busy>baQueue</busy>
         <repeatPlayer>true</repeatPlayer>
@@ -828,20 +858,6 @@
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\leaderFinish6.ogg</sound>
-          </voice5>
-		  <voice5>
-            <weight>15</weight>
-            <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
-            <forHuman>false</forHuman>
-            <sound>Voice\leaderFinish7.ogg</sound>
-          </voice5>
-		  <voice5>
-            <weight>15</weight>
-            <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
-            <forHuman>false</forHuman>
-            <sound>Voice\leaderFinish8.ogg</sound>
           </voice5>
         </voices>
       </playerLeadFinish>
@@ -960,96 +976,110 @@
         <repeatPlayer>true</repeatPlayer>
         <voices>
           <voice0>
-            <weight>33</weight>
+            <weight>14</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\playerLostControl1.ogg</sound>
           </voice0>
           <voice1>
-            <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <weight>14</weight>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
-            <forHuman>true</forHuman>
+            <forHuman>false</forHuman>
             <sound>Voice\playerLostControl2.ogg</sound>
           </voice1>
           <voice2>
-            <weight>33</weight>
+            <weight>14</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\playerLostControl3.ogg</sound>
           </voice2>
 		  <voice3>
-            <weight>33</weight>
+            <weight>14</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\playerLostControl4.ogg</sound>
           </voice3>
 		  <voice4>
-            <weight>33</weight>
+            <weight>14</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\playerLostControl5.ogg</sound>
           </voice4>
-		  <voice4>
-            <weight>33</weight>
+		  <voice5>
+            <weight>14</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\playerLostControl6.ogg</sound>
-          </voice4>
-		  <voice4>
-            <weight>33</weight>
+          </voice5>
+		  <voice6>
+            <weight>14</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\playerLostControl7.ogg</sound>
-          </voice4>
-		  </voices>
+          </voice6>
+        </voices>
       </playerLostControl>
       <playerLowLife>
-        <chance>100</chance>
+        <chance>30</chance>
         <delay>15</delay>
         <busy>baSkip</busy>
         <repeatPlayer>false</repeatPlayer>
         <voices>
-          <voice2>
+          <voice0>
             <weight>15</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lowLife1.ogg</sound>
+          </voice0>
+          <voice1>
+            <weight>15</weight>
+            <sPlayer>true</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\lowLife2.ogg</sound>
+          </voice1>
+          <voice2>
+            <weight>15</weight>
+            <sPlayer>true</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\lowLife3.ogg</sound>
           </voice2>
           <voice3>
             <weight>15</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
-            <sound>Voice\lowLife2.ogg</sound>
+            <sound>Voice\lowLife4.ogg</sound>
           </voice3>
           <voice4>
             <weight>15</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
-            <sound>Voice\lowLife3.ogg</sound>
+            <sound>Voice\lowLife5.ogg</sound>
           </voice4>
           <voice5>
             <weight>15</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
-            <sound>Voice\lowLife4.ogg</sound>
+            <sound>Voice\lowLife6.ogg</sound>
           </voice5>
           <voice6>
             <weight>15</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
-            <sound>Voice\lowLife5.ogg</sound>
+            <sound>Voice\lowLife7.ogg</sound>
           </voice6>
         </voices>
       </playerLowLife>
@@ -1088,92 +1118,99 @@
             <forHuman>true</forHuman>
             <sound>Voice\overboard2.ogg</sound>
           </voice1>
-		  <voice5>
+          <voice2>
             <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
-            <forHuman>true</forHuman>
+            <forHuman>false</forHuman>
             <sound>Voice\overboard3.ogg</sound>
-          </voice5>
-		  <voice6>
+          </voice2>
+          <voice3>
             <weight>33</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>true</forHuman>
             <sound>Voice\overboard4.ogg</sound>
-          </voice6>
-		  <voice6>
+          </voice3>
+          <voice4>
             <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
-            <forHuman>true</forHuman>
+            <forHuman>false</forHuman>
             <sound>Voice\overboard5.ogg</sound>
-          </voice6>
-		  <voice6>
+          </voice4>
+		  <voice5>
             <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
-            <forHuman>true</forHuman>
+            <forHuman>false</forHuman>
             <sound>Voice\overboard6.ogg</sound>
-          </voice6>
+          </voice5>
 		  <voice6>
             <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
-            <forHuman>true</forHuman>
+            <forHuman>false</forHuman>
             <sound>Voice\overboard7.ogg</sound>
           </voice6>
-		  <voice6>
+		  <voice7>
             <weight>33</weight>
-            <sPlayer>false</sPlayer>
+            <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
-            <forHuman>true</forHuman>
+            <forHuman>false</forHuman>
             <sound>Voice\overboard8.ogg</sound>
-          </voice6>
+          </voice7>
         </voices>
       </playerOverboard>
       <playerSpeedArrow>
         <chance>100</chance>
         <delay>15</delay>
         <busy>baSkip</busy>
-        <repeatPlayer>true</repeatPlayer>
+        <repeatPlayer>false</repeatPlayer>
         <voices>
           <voice0>
             <weight>33</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
+            <ePlayer>true</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\accel1.ogg</sound>
           </voice0>
           <voice1>
             <weight>33</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
+            <ePlayer>true</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\accel2.ogg</sound>
           </voice1>
           <voice2>
             <weight>33</weight>
             <sPlayer>true</sPlayer>
-            <ePlayer>false</ePlayer>
+            <ePlayer>true</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\accel3.ogg</sound>
           </voice2>
         </voices>
       </playerSpeedArrow>
       <playerThirdFar>
-        <chance>100</chance>
+        <chance>25</chance>
         <delay>25</delay>
         <busy>baSkip</busy>
         <repeatPlayer>false</repeatPlayer>
         <voices>
           <voice0>
-            <weight>0</weight>
+            <weight>50</weight>
             <sPlayer>true</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\thirdChanged1.ogg</sound>
           </voice0>
+		  <voice1>
+            <weight>50</weight>
+            <sPlayer>true</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\thirdChanged2.ogg</sound>
+          </voice1>
         </voices>
       </playerThirdFar>
       <raceFinish>
@@ -1183,59 +1220,68 @@
         <repeatPlayer>true</repeatPlayer>
         <voices>
           <voice0>
-            <weight>0</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish1.ogg</sound>
           </voice0>
-		  <voice0>
-            <weight>0</weight>
+		  <voice1>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish2.ogg</sound>
-          </voice0>
-		  <voice0>
-            <weight>0</weight>
+          </voice1>
+		  <voice2>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish3.ogg</sound>
-          </voice0>
-        </voices>
-		  <voice0>
-            <weight>0</weight>
+          </voice2>
+		  <voice3>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish4.ogg</sound>
-          </voice0>
-        </voices>
-		  <voice0>
-            <weight>0</weight>
+          </voice3>
+		  <voice4>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish5.ogg</sound>
-          </voice0>
-        </voices>
-		  <voice0>
-            <weight>0</weight>
+          </voice4>
+		  <voice5>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish6.ogg</sound>
-          </voice0>
-        </voices>
-        </voices>
-		  <voice0>
-            <weight>0</weight>
+          </voice5>
+		  <voice6>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\finish7.ogg</sound>
-          </voice0>
+          </voice6>
+		  <voice7>
+            <weight>11</weight>
+            <sPlayer>false</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\finish8.ogg</sound>
+          </voice7>
+		  <voice8>
+            <weight>11</weight>
+            <sPlayer>false</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\finish9.ogg</sound>
+          </voice8>
         </voices>
       </raceFinish>
       <raceLastLap>
@@ -1245,54 +1291,61 @@
         <repeatPlayer>true</repeatPlayer>
         <voices>
           <voice0>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap1.ogg</sound>
           </voice0>
           <voice1>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>true</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap2.ogg</sound>
           </voice1>
           <voice2>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap3.ogg</sound>
           </voice2>
           <voice3>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap4.ogg</sound>
           </voice3>
           <voice4>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap5.ogg</sound>
           </voice4>
           <voice5>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap6.ogg</sound>
           </voice5>
           <voice6>
-            <weight>15</weight>
+            <weight>12</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\lastLap7.ogg</sound>
           </voice6>
+		  <voice7>
+            <weight>12</weight>
+            <sPlayer>false</sPlayer>
+            <ePlayer>false</ePlayer>
+            <forHuman>false</forHuman>
+            <sound>Voice\lastLap8.ogg</sound>
+          </voice7>
         </voices>
       </raceLastLap>
       <raceStartTime2>
@@ -1302,61 +1355,61 @@
         <repeatPlayer>true</repeatPlayer>
         <voices>
           <voice0>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start1.ogg</sound>
           </voice0>
           <voice1>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start2.ogg</sound>
           </voice1>
           <voice2>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start3.ogg</sound>
           </voice2>
           <voice3>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start4.ogg</sound>
           </voice3>
 		  <voice4>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start5.ogg</sound>
           </voice4>
 		  <voice5>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start6.ogg</sound>
           </voice5>
 		  <voice6>
-            <weight>25</weight>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start7.ogg</sound>
           </voice6>
-		  <voice6>
-            <weight>25</weight>
+		  <voice7>
+            <weight>11</weight>
             <sPlayer>false</sPlayer>
             <ePlayer>false</ePlayer>
             <forHuman>false</forHuman>
             <sound>Voice\start8.ogg</sound>
-          </voice6>
+          </voice7>
         </voices>
       </raceStartTime2>
       <scButcher>
