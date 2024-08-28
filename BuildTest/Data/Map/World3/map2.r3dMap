@@ -1821,10 +1821,10 @@
     <ctWaypoint>
       <items />
     </ctWaypoint>
-    <ctBonuz>
+    <ctBonus>
       <items>
         <speedArrow0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\speedArrow</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\speedArrow</record>
           <pos>89.3957 69.9246 5.07581</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1836,7 +1836,7 @@
           </behaviors>
         </speedArrow0>
         <lusha0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\lusha</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\lusha</record>
           <pos>134.633 0.171944 8.20003</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1848,7 +1848,7 @@
           </behaviors>
         </lusha0>
         <lusha1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\lusha</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\lusha</record>
           <pos>100.543 -96.9457 6.24142</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1860,7 +1860,7 @@
           </behaviors>
         </lusha1>
         <lusha2>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\lusha</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\lusha</record>
           <pos>137.49 -48.901 8.20949</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1872,7 +1872,7 @@
           </behaviors>
         </lusha2>
         <money0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\money</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
           <pos>86.9983 60.7122 4.97554</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707107</rot>
@@ -1884,7 +1884,7 @@
           </behaviors>
         </money0>
         <medpack0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\medpack</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
           <pos>142.028 64.7104 6.02315</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1895,8 +1895,20 @@
             <items />
           </behaviors>
         </medpack0>
+        <mineSpike0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>201.717 38.8437 8.45328</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike0>
         <medpack1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\medpack</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
           <pos>166.758 2.6911 8.16549</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1908,7 +1920,7 @@
           </behaviors>
         </medpack1>
         <ammo0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\ammo</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
           <pos>135.165 -24.5281 8.12273</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1920,7 +1932,7 @@
           </behaviors>
         </ammo0>
         <money2>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\money</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
           <pos>176.061 -56.8453 8.11902</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707107</rot>
@@ -1932,7 +1944,7 @@
           </behaviors>
         </money2>
         <ammo1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\ammo</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
           <pos>202.444 -92.7099 8.18718</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1944,7 +1956,7 @@
           </behaviors>
         </ammo1>
         <medpack2>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\medpack</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
           <pos>153.808 -122.624 6.16977</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1956,7 +1968,7 @@
           </behaviors>
         </medpack2>
         <money3>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\money</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
           <pos>140.359 -101.898 6.09583</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707107</rot>
@@ -1967,8 +1979,20 @@
             <items />
           </behaviors>
         </money3>
+        <mineSpike1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>96.0037 -49.344 6.44688</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike1>
         <shield0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\shield</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\shield</record>
           <pos>122.423 61.3985 6.04056</pos>
           <scale>1 1 1</scale>
           <rot>0 0 -0.707107 0.707107</rot>
@@ -1980,7 +2004,7 @@
           </behaviors>
         </shield0>
         <shield1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\shield</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\shield</record>
           <pos>89.4652 -41.3684 6.17086</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -1992,7 +2016,7 @@
           </behaviors>
         </shield1>
       </items>
-    </ctBonuz>
+    </ctBonus>
     <trace>
       <points>
         <point0 id="0">

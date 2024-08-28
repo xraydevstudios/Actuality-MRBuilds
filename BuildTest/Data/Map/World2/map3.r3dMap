@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <map>
-    <ctCar>
-      <items />
-    </ctCar>
-    <ctWeapon>
-      <items />
-    </ctWeapon>
     <ctEffects>
       <items />
     </ctEffects>
@@ -14,7 +8,7 @@
       <items>
         <semaphore0>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\semaphore</record>
-          <pos>33.1249 30.7616 -1.90735e-06</pos>
+          <pos>33.1249 30.7616 -1.90735e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -26,7 +20,7 @@
         </semaphore0>
         <pumpjack0>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pumpjack</record>
-          <pos>44.8727 52.6531 -3.8147e-06</pos>
+          <pos>44.8727 52.6531 -3.8147e-006</pos>
           <scale>0.67 0.67 0.67</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -38,7 +32,7 @@
         </pumpjack0>
         <pumpjack1>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pumpjack</record>
-          <pos>21.7057 68.7894 -1.90735e-06</pos>
+          <pos>21.7057 68.7894 -1.90735e-006</pos>
           <scale>0.73 0.73 0.73</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -50,7 +44,7 @@
         </pumpjack1>
         <truba10>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>17.5986 53.5955 3.8147e-06</pos>
+          <pos>17.5986 53.5955 3.8147e-006</pos>
           <scale>0.8 0.8 0.8</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -62,7 +56,7 @@
         </truba10>
         <truba11>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>31.7145 53.6246 4.95911e-05</pos>
+          <pos>31.7145 53.6246 4.95911e-005</pos>
           <scale>0.8 0.8 0.8</scale>
           <rot>0 0 -0.608761 0.793353</rot>
           <life>-1</life>
@@ -86,7 +80,7 @@
         </skelet1_20>
         <isle20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\isle2</record>
-          <pos>17.5279 10.7636 -7.62939e-06</pos>
+          <pos>17.5279 10.7636 -7.62939e-006</pos>
           <scale>0.51 0.51 0.51</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -98,7 +92,7 @@
         </isle20>
         <poplar1_20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_2</record>
-          <pos>14.952 3.69229 -3.8147e-05</pos>
+          <pos>14.952 3.69229 -3.8147e-005</pos>
           <scale>0.78 0.78 0.78</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -110,7 +104,7 @@
         </poplar1_20>
         <deadtree3_b0>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-22.3789 38.6205 -1.52588e-05</pos>
+          <pos>-22.3789 38.6205 -1.52588e-005</pos>
           <scale>0.66 0.66 0.66</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -134,7 +128,7 @@
         </metal1_10>
         <deadtree3_b2>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-19.5689 48.1723 -1.52588e-05</pos>
+          <pos>-19.5689 48.1723 -1.52588e-005</pos>
           <scale>0.754402 0.754402 0.754402</scale>
           <rot>0.10536 -0.0407564 -0.0109061 0.993539</rot>
           <life>-1</life>
@@ -146,7 +140,7 @@
         </deadtree3_b2>
         <deadtree3_b3>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-18.7666 56.4482 -7.62939e-06</pos>
+          <pos>-18.7666 56.4482 -7.62939e-006</pos>
           <scale>0.719062 0.719062 0.719062</scale>
           <rot>0.0335446 -0.0514607 -0.107652 0.992289</rot>
           <life>-1</life>
@@ -158,7 +152,7 @@
         </deadtree3_b3>
         <deadtree3_b4>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-18.76 59.8588 -1.52588e-05</pos>
+          <pos>-18.76 59.8588 -1.52588e-005</pos>
           <scale>0.945314 0.945314 0.945314</scale>
           <rot>0.0580473 -0.133568 0.0705892 0.986817</rot>
           <life>-1</life>
@@ -170,7 +164,7 @@
         </deadtree3_b4>
         <deadtree3_b6>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-31.8697 44.921 -3.05176e-05</pos>
+          <pos>-31.8697 44.921 -3.05176e-005</pos>
           <scale>1.22589 1.22589 1.22589</scale>
           <rot>-0.0794039 0.0397626 -0.0631374 0.994046</rot>
           <life>-1</life>
@@ -194,7 +188,7 @@
         </machineFactory0>
         <haus1_20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\haus1_2</record>
-          <pos>27.1725 147.563 -7.62939e-06</pos>
+          <pos>27.1725 147.563 -7.62939e-006</pos>
           <scale>0.84 0.84 0.84</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -254,7 +248,7 @@
         </poplar1_13>
         <poplar1_14>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-13.7922 122.964 9.91821e-05</pos>
+          <pos>-13.7922 122.964 9.91821e-005</pos>
           <scale>0.807743 0.807743 0.807743</scale>
           <rot>0.124679 0.0173451 0.0271032 0.991675</rot>
           <life>-1</life>
@@ -290,7 +284,7 @@
         </haus11>
         <truba40>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba4</record>
-          <pos>-66.788 171.564 7.62939e-06</pos>
+          <pos>-66.788 171.564 7.62939e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -314,7 +308,7 @@
         </truba41>
         <truba42>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba4</record>
-          <pos>-67.6374 162.635 -7.62939e-06</pos>
+          <pos>-67.6374 162.635 -7.62939e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -326,7 +320,7 @@
         </truba42>
         <metal1_20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\metal1_2</record>
-          <pos>-59.0464 127.692 1.52588e-05</pos>
+          <pos>-59.0464 127.692 1.52588e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -338,7 +332,7 @@
         </metal1_20>
         <metal1_21>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\metal1_2</record>
-          <pos>-72.5093 130.181 3.05176e-05</pos>
+          <pos>-72.5093 130.181 3.05176e-005</pos>
           <scale>0.56 0.56 0.56</scale>
           <rot>0 0 -0.866025 0.5</rot>
           <life>-1</life>
@@ -350,7 +344,7 @@
         </metal1_21>
         <metal1_11>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\metal1_1</record>
-          <pos>-67.4019 127.873 -7.62939e-06</pos>
+          <pos>-67.4019 127.873 -7.62939e-006</pos>
           <scale>1 1 1</scale>
           <rot>0.0858905 -0.0982848 0 0.991445</rot>
           <life>-1</life>
@@ -362,7 +356,7 @@
         </metal1_11>
         <poplar1_15>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-115.952 164.753 -7.62939e-06</pos>
+          <pos>-115.952 164.753 -7.62939e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -374,7 +368,7 @@
         </poplar1_15>
         <poplar1_21>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_2</record>
-          <pos>-114.59 151.557 -5.34058e-05</pos>
+          <pos>-114.59 151.557 -5.34058e-005</pos>
           <scale>0.845034 0.845034 0.845034</scale>
           <rot>-0.101048 -0.025618 -0.0857257 0.99085</rot>
           <life>-1</life>
@@ -386,7 +380,7 @@
         </poplar1_21>
         <poplar1_22>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_2</record>
-          <pos>-116.37 134.691 -3.8147e-05</pos>
+          <pos>-116.37 134.691 -3.8147e-005</pos>
           <scale>1.01007 0.970071 0.970071</scale>
           <rot>0.254305 -0.160825 0.0539018 0.952133</rot>
           <life>-1</life>
@@ -410,7 +404,7 @@
         </poplar1_16>
         <poplar1_17>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-111.71 187.234 -3.8147e-05</pos>
+          <pos>-111.71 187.234 -3.8147e-005</pos>
           <scale>0.933773 0.933773 0.933773</scale>
           <rot>0.103538 0.136717 -0.143128 0.974732</rot>
           <life>-1</life>
@@ -422,7 +416,7 @@
         </poplar1_17>
         <poplar1_18>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-66.4423 209.76 -3.05176e-05</pos>
+          <pos>-66.4423 209.76 -3.05176e-005</pos>
           <scale>0.991604 0.991604 0.991604</scale>
           <rot>-0.00490563 0.0683439 -0.0882221 0.993741</rot>
           <life>-1</life>
@@ -434,7 +428,7 @@
         </poplar1_18>
         <poplar1_19>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-49.7739 217.326 -3.8147e-05</pos>
+          <pos>-49.7739 217.326 -3.8147e-005</pos>
           <scale>0.968825 0.968825 0.968825</scale>
           <rot>-0.0191381 -0.0749062 0.0189541 0.996827</rot>
           <life>-1</life>
@@ -446,7 +440,7 @@
         </poplar1_19>
         <poplar1_110>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-47.2962 208.153 -5.34058e-05</pos>
+          <pos>-47.2962 208.153 -5.34058e-005</pos>
           <scale>0.768355 0.768355 0.768355</scale>
           <rot>-0.078781 -0.099156 -0.0422592 0.991048</rot>
           <life>-1</life>
@@ -458,7 +452,7 @@
         </poplar1_110>
         <poplar1_111>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_1</record>
-          <pos>-34.8842 210.921 -5.34058e-05</pos>
+          <pos>-34.8842 210.921 -5.34058e-005</pos>
           <scale>0.830338 0.830338 0.830338</scale>
           <rot>0.0533582 0.0948121 -0.0427542 0.993144</rot>
           <life>-1</life>
@@ -482,7 +476,7 @@
         </poplar1_23>
         <poplar1_24>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\poplar1_2</record>
-          <pos>-16.7638 201.377 1.52588e-05</pos>
+          <pos>-16.7638 201.377 1.52588e-005</pos>
           <scale>0.716865 0.716865 0.716865</scale>
           <rot>0.0497627 -0.100043 0.0256714 0.993406</rot>
           <life>-1</life>
@@ -518,7 +512,7 @@
         </isle21>
         <skelet1_10>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\skelet1_1</record>
-          <pos>-4.75726 175.002 7.62939e-06</pos>
+          <pos>-4.75726 175.002 7.62939e-006</pos>
           <scale>0.692794 0.692794 0.692794</scale>
           <rot>0.106864 -0.0785707 -0.836794 0.531208</rot>
           <life>-1</life>
@@ -542,7 +536,7 @@
         </skelet1_30>
         <truba20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba2</record>
-          <pos>27.5174 119.288 -7.62939e-06</pos>
+          <pos>27.5174 119.288 -7.62939e-006</pos>
           <scale>0.741015 0.741015 0.741015</scale>
           <rot>-0.0303343 -0.020944 0.052075 0.997963</rot>
           <life>-1</life>
@@ -554,7 +548,7 @@
         </truba20>
         <truba21>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba2</record>
-          <pos>37.3685 120.22 2.28882e-05</pos>
+          <pos>37.3685 120.22 2.28882e-005</pos>
           <scale>0.654927 0.654927 0.654927</scale>
           <rot>0.0205587 0.059672 0.0931344 0.993651</rot>
           <life>-1</life>
@@ -566,7 +560,7 @@
         </truba21>
         <truba22>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba2</record>
-          <pos>46.0947 120.698 2.28882e-05</pos>
+          <pos>46.0947 120.698 2.28882e-005</pos>
           <scale>0.704524 0.704524 0.704524</scale>
           <rot>0.116439 0.0298384 -0.101311 0.987567</rot>
           <life>-1</life>
@@ -578,7 +572,7 @@
         </truba22>
         <truba23>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba2</record>
-          <pos>55.1063 119.698 3.8147e-05</pos>
+          <pos>55.1063 119.698 3.8147e-005</pos>
           <scale>0.674149 0.674149 0.674149</scale>
           <rot>-0.0456247 -0.109915 0.0673687 0.990605</rot>
           <life>-1</life>
@@ -590,7 +584,7 @@
         </truba23>
         <truba30>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba3</record>
-          <pos>47.9617 127.992 -5.34058e-05</pos>
+          <pos>47.9617 127.992 -5.34058e-005</pos>
           <scale>0.904139 0.904139 0.904139</scale>
           <rot>0.0141738 0.110818 0.0783645 0.990645</rot>
           <life>-1</life>
@@ -602,7 +596,7 @@
         </truba30>
         <deadtree3_b1>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>56.367 124.454 -7.62939e-06</pos>
+          <pos>56.367 124.454 -7.62939e-006</pos>
           <scale>0.999515 0.999515 0.999515</scale>
           <rot>0.065457 0.053428 0.0294491 0.995989</rot>
           <life>-1</life>
@@ -626,7 +620,7 @@
         </deadtree3_b5>
         <deadtree3_b7>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>78.1133 121.247 6.10352e-05</pos>
+          <pos>78.1133 121.247 6.10352e-005</pos>
           <scale>0.722889 0.722889 0.722889</scale>
           <rot>-0.0898702 -0.12529 -0.00330055 0.988036</rot>
           <life>-1</life>
@@ -650,7 +644,7 @@
         </deadtree3_b8>
         <deadtree3_b9>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>46.752 75.3919 8.39233e-05</pos>
+          <pos>46.752 75.3919 8.39233e-005</pos>
           <scale>0.843706 0.843706 0.843706</scale>
           <rot>-0.0671365 -0.0232851 0.0676499 0.995175</rot>
           <life>-1</life>
@@ -662,7 +656,7 @@
         </deadtree3_b9>
         <deadtree3_b10>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>42.8661 79.8385 9.15527e-05</pos>
+          <pos>42.8661 79.8385 9.15527e-005</pos>
           <scale>0.892175 0.892175 0.892175</scale>
           <rot>-0.106758 -0.000463993 0.0126827 0.994204</rot>
           <life>-1</life>
@@ -698,7 +692,7 @@
         </deadtree3_b14>
         <pumpjack2>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pumpjack</record>
-          <pos>99.8726 93.7313 -7.62939e-06</pos>
+          <pos>99.8726 93.7313 -7.62939e-006</pos>
           <scale>0.76 0.76 0.76</scale>
           <rot>0 0 -0.5 0.866025</rot>
           <life>-1</life>
@@ -710,7 +704,7 @@
         </pumpjack2>
         <haus12>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\haus1</record>
-          <pos>121.789 61.8509 -3.05176e-05</pos>
+          <pos>121.789 61.8509 -3.05176e-005</pos>
           <scale>0.49 0.49 0.49</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -746,7 +740,7 @@
         </deadtree3_b15>
         <deadtree30>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3</record>
-          <pos>117.535 47.2089 -1.52588e-05</pos>
+          <pos>117.535 47.2089 -1.52588e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -758,7 +752,7 @@
         </deadtree30>
         <deadtree3_b16>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>108.162 47.0901 3.05176e-05</pos>
+          <pos>108.162 47.0901 3.05176e-005</pos>
           <scale>0.76 0.79 0.79</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -770,7 +764,7 @@
         </deadtree3_b16>
         <deadtree3_b17>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>91.6302 23.6913 5.34058e-05</pos>
+          <pos>91.6302 23.6913 5.34058e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -782,7 +776,7 @@
         </deadtree3_b17>
         <deadtree3_b18>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>104.24 37.1974 6.10352e-05</pos>
+          <pos>104.24 37.1974 6.10352e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -890,7 +884,7 @@
         </haus16>
         <deadtree3_b19>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-80.7886 45.4269 -3.8147e-06</pos>
+          <pos>-80.7886 45.4269 -3.8147e-006</pos>
           <scale>1.29753 1.29753 1.29753</scale>
           <rot>-0.00578638 -0.0135248 0.112286 0.993567</rot>
           <life>-1</life>
@@ -902,7 +896,7 @@
         </deadtree3_b19>
         <deadtree3_b20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-81.3282 66.2045 -3.8147e-06</pos>
+          <pos>-81.3282 66.2045 -3.8147e-006</pos>
           <scale>0.765682 0.765682 0.765682</scale>
           <rot>0.114927 -0.0825446 0.0621235 0.987987</rot>
           <life>-1</life>
@@ -914,7 +908,7 @@
         </deadtree3_b20>
         <deadtree3_b21>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-70.3287 49.6866 -3.8147e-06</pos>
+          <pos>-70.3287 49.6866 -3.8147e-006</pos>
           <scale>1.04073 1.04073 1.04073</scale>
           <rot>-0.116964 -0.106007 -0.0733499 0.984734</rot>
           <life>-1</life>
@@ -926,7 +920,7 @@
         </deadtree3_b21>
         <deadtree3_b22>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-55.2023 45.5665 -3.8147e-06</pos>
+          <pos>-55.2023 45.5665 -3.8147e-006</pos>
           <scale>0.948775 0.948775 0.948775</scale>
           <rot>0.0250046 -0.00945231 -0.0933673 0.995273</rot>
           <life>-1</life>
@@ -938,7 +932,7 @@
         </deadtree3_b22>
         <deadtree3_b23>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-62.8471 26.1748 -3.8147e-06</pos>
+          <pos>-62.8471 26.1748 -3.8147e-006</pos>
           <scale>0.941926 0.941926 0.941926</scale>
           <rot>0.127468 0.0488875 0.0976533 0.985812</rot>
           <life>-1</life>
@@ -950,7 +944,7 @@
         </deadtree3_b23>
         <deadtree3_b24>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-94.0221 23.9613 -3.8147e-06</pos>
+          <pos>-94.0221 23.9613 -3.8147e-006</pos>
           <scale>0.747005 0.747005 0.747005</scale>
           <rot>0.0752881 0.125188 -0.128734 0.98086</rot>
           <life>-1</life>
@@ -962,7 +956,7 @@
         </deadtree3_b24>
         <deadtree3_b25>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-121.391 44.0875 -3.8147e-06</pos>
+          <pos>-121.391 44.0875 -3.8147e-006</pos>
           <scale>1.21072 1.21072 1.21072</scale>
           <rot>-0.0600469 0.089656 0.0956269 0.989551</rot>
           <life>-1</life>
@@ -974,7 +968,7 @@
         </deadtree3_b25>
         <deadtree3_b26>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\deadtree3_b</record>
-          <pos>-142.877 64.8374 -3.8147e-06</pos>
+          <pos>-142.877 64.8374 -3.8147e-006</pos>
           <scale>1.06009 1.06009 1.06009</scale>
           <rot>-0.103611 -0.105318 0.054911 0.987501</rot>
           <life>-1</life>
@@ -1158,7 +1152,7 @@
       <items>
         <track10>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track1</record>
-          <pos>35.2781 31.0341 4.3869e-05</pos>
+          <pos>35.2781 31.0341 4.3869e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1170,7 +1164,7 @@
         </track10>
         <track20>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>3.7438 36.7797 -6.19889e-05</pos>
+          <pos>3.7438 36.7797 -6.19889e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 -0.707107 0.707106</rot>
           <life>-1</life>
@@ -1182,7 +1176,7 @@
         </track20>
         <track11>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track1</record>
-          <pos>-2.00482 60.2439 -1.90735e-06</pos>
+          <pos>-2.00482 60.2439 -1.90735e-006</pos>
           <scale>0.98 1 1</scale>
           <rot>0 0 -0.707107 0.707106</rot>
           <life>-1</life>
@@ -1218,7 +1212,7 @@
         </tramp21>
         <track60>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track6</record>
-          <pos>0.612545 94.9044 -1.90735e-06</pos>
+          <pos>0.612545 94.9044 -1.90735e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 -0.707107 0.707106</rot>
           <life>-1</life>
@@ -1230,7 +1224,7 @@
         </track60>
         <tramp22>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp2</record>
-          <pos>-2.07059 108.136 -4.00543e-05</pos>
+          <pos>-2.07059 108.136 -4.00543e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707106</rot>
           <life>-1</life>
@@ -1256,7 +1250,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp2</record>
           <pos>-25.6489 134.214 1.13679</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1268,7 +1262,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track6</record>
           <pos>-42.6318 131.5 2.22919</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1292,7 +1286,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp2</record>
           <pos>-67.9691 134.2 2.32454</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1328,7 +1322,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
           <pos>-92.7598 173.706 3.50785</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -5.06639e-07</rot>
+          <rot>0 0 -1 -5.06639e-007</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1400,7 +1394,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>10.3311 94.9639 0</pos>
           <scale>1.32 1 1</scale>
-          <rot>0 0 8.74279e-08 -1</rot>
+          <rot>0 0 8.74279e-008 -1</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1410,7 +1404,7 @@
         </tramp18>
         <track27>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>59.1296 36.8182 8.58307e-06</pos>
+          <pos>59.1296 36.8182 8.58307e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1434,7 +1428,7 @@
         </track13>
         <track12>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track1</record>
-          <pos>28.7831 94.9258 -2.86102e-06</pos>
+          <pos>28.7831 94.9258 -2.86102e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1446,7 +1440,7 @@
         </track12>
         <track26>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>59.1189 89.1131 9.53674e-07</pos>
+          <pos>59.1189 89.1131 9.53674e-007</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707106</rot>
           <life>-1</life>
@@ -1520,7 +1514,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>21.9908 30.9984 0</pos>
           <scale>1.8 1 1</scale>
-          <rot>0 0 -1 5.96046e-08</rot>
+          <rot>0 0 -1 5.96046e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1544,7 +1538,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>-18.6968 134.235 1.08028</pos>
           <scale>1.68 1 1</scale>
-          <rot>0 0 1 5.96046e-08</rot>
+          <rot>0 0 1 5.96046e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1638,59 +1632,151 @@
         </track14>
       </items>
     </ctTrack>
-    <ctBonuz>
-      <items>
-        <spinner0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\spinner</record>
-          <pos>-38.7831 135.688 8.54937</pos>
-          <scale>1 1 1</scale>
-          <rot>0 0 0 1</rot>
-          <life>-1</life>
-          <maxTimeLife>-1</maxTimeLife>
-          <timeLife>0</timeLife>
-          <behaviors>
-            <items />
-          </behaviors>
-        </spinner0>
-        <spinner1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\spinner</record>
-          <pos>11.8486 94.8697 6.34924</pos>
-          <scale>1 1 1</scale>
-          <rot>0 0 0 1</rot>
-          <life>-1</life>
-          <maxTimeLife>-1</maxTimeLife>
-          <timeLife>0</timeLife>
-          <behaviors>
-            <items />
-          </behaviors>
-        </spinner1>
-      </items>
-    </ctBonuz>
-    <ctTriggers>
+    <ctWeapon>
       <items />
-    </ctTriggers>
+    </ctWeapon>
+    <ctCar>
+      <items />
+    </ctCar>
+    <ctWaypoint>
+      <items />
+    </ctWaypoint>
     <ctBonus>
-      <items />
-    </ctBonus>
-    <ctTriggerz>
       <items>
-        <aiJump0>
-          <record lib="world\db\ctTriggerz">world\db\root\ctTriggerz\aiJump</record>
-          <pos>-37.7797 150.075 10.3555</pos>
+        <money0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>-91.8401 161.689 9.88916</pos>
           <scale>1 1 1</scale>
-          <rot>0.0370071 -0.0370071 -0.706138 -0.706138</rot>
+          <rot>0 0 0 1</rot>
           <life>-1</life>
           <maxTimeLife>0</maxTimeLife>
           <timeLife>0</timeLife>
           <behaviors>
             <items />
           </behaviors>
-        </aiJump0>
+        </money0>
+        <money1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>-50.3556 127.713 8.36812</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </money1>
+        <ammo0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
+          <pos>-4.14914 65.1106 6.15544</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </ammo0>
+        <ammo1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
+          <pos>30.6123 98.4853 6.10481</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </ammo1>
+        <medpack0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
+          <pos>-6.77159 127.206 7.23002</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </medpack0>
+        <mineSpike0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>-1.48378 123.02 7.51368</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike0>
+        <mineSpike1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>-31.0091 91.0971 8.65852</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike1>
+        <mineSpike2>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>50.5933 35.1595 6.42697</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike2>
+        <medpack1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
+          <pos>-46.5392 162.33 9.63441</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </medpack1>
+        <money2>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>-82.2939 139.192 9.54989</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 -0.707107 0.707106</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </money2>
+        <shield0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\shield</record>
+          <pos>-25.1057 96.7158 8.39329</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 -0.707107 0.707107</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </shield0>
       </items>
-    </ctTriggerz>
-    <ctWaypoint>
-      <items />
-    </ctWaypoint>
+    </ctBonus>
     <trace>
       <points>
         <point0 id="0">
@@ -1745,7 +1831,7 @@
         </path0>
       </pathes>
     </trace>
-    <sunPos>15,4832 37,0748 87,2131</sunPos>
+    <sunPos>15.4832 37.0748 87.2131</sunPos>
     <sunRot>-0.470866 0.268231 0.730271 0.416001</sunRot>
   </map>
 </root>

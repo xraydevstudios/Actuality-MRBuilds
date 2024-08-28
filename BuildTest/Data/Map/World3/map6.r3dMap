@@ -2697,10 +2697,10 @@
     <ctWaypoint>
       <items />
     </ctWaypoint>
-    <ctBonuz>
+    <ctBonus>
       <items>
         <medpack0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\medpack</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
           <pos>-96.3623 46.8734 6.13821</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2712,7 +2712,7 @@
           </behaviors>
         </medpack0>
         <money0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\money</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
           <pos>-87.6058 129.565 5.99479</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.793353 0.608761</rot>
@@ -2724,7 +2724,7 @@
           </behaviors>
         </money0>
         <ammo0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\ammo</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
           <pos>-64.0412 116.657 6.16028</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2736,7 +2736,7 @@
           </behaviors>
         </ammo0>
         <money1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\money</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
           <pos>-73.8393 42.5705 6.04394</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2748,7 +2748,7 @@
           </behaviors>
         </money1>
         <medpack1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\medpack</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
           <pos>-67.7729 -3.6826 9.37058</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2760,7 +2760,7 @@
           </behaviors>
         </medpack1>
         <money2>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\money</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
           <pos>-65.6032 -29.3109 6.21307</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707107</rot>
@@ -2772,7 +2772,7 @@
           </behaviors>
         </money2>
         <ammo1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\ammo</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
           <pos>-37.8355 -73.7692 5.99415</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2784,7 +2784,7 @@
           </behaviors>
         </ammo1>
         <medpack2>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\medpack</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
           <pos>94.371 -52.487 6.11728</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2796,7 +2796,7 @@
           </behaviors>
         </medpack2>
         <lusha0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\lusha</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\lusha</record>
           <pos>89.8704 1.71361 6.20597</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
@@ -2808,7 +2808,7 @@
           </behaviors>
         </lusha0>
         <shield0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\shield</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\shield</record>
           <pos>26.3507 24.0976 11.9952</pos>
           <scale>1 1 1</scale>
           <rot>0 0 -1 -4.37114e-008</rot>
@@ -2820,7 +2820,7 @@
           </behaviors>
         </shield0>
         <shield1>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\shield</record>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\shield</record>
           <pos>5.11434 -83.3807 6.13261</pos>
           <scale>1 1 1</scale>
           <rot>0 0 -0.707107 0.707107</rot>
@@ -2832,7 +2832,7 @@
           </behaviors>
         </shield1>
       </items>
-    </ctBonuz>
+    </ctBonus>
     <trace>
       <points>
         <point0 id="0">

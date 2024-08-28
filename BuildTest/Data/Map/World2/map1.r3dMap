@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
   <map>
-    <ctCar>
-      <items />
-    </ctCar>
-    <ctWeapon>
-      <items />
-    </ctWeapon>
     <ctEffects>
       <items />
     </ctEffects>
@@ -16,7 +10,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\semaphore</record>
           <pos>-10.8449 -67.7636 3.35443</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -100,7 +94,7 @@
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pregrada</record>
           <pos>51.6106 0.974809 -0.620337</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -112,7 +106,7 @@
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pregrada</record>
           <pos>58.0413 0.820193 -0.603371</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -124,7 +118,7 @@
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pregrada</record>
           <pos>51.7718 18.1584 -0.56531</pos>
           <scale>1.13 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -136,7 +130,7 @@
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\pregrada</record>
           <pos>58.5554 18.1091 -0.580091</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -4.3714e-08</rot>
+          <rot>0 0 -1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -266,7 +260,7 @@
         </pregrada19>
         <naves1_20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\naves1_2</record>
-          <pos>91.7595 -20.2087 -7.62939e-06</pos>
+          <pos>91.7595 -20.2087 -7.62939e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707106</rot>
           <life>-1</life>
@@ -950,7 +944,7 @@
         </truba10>
         <truba11>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>-61.7957 38.7533 3.05176e-05</pos>
+          <pos>-61.7957 38.7533 3.05176e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -962,7 +956,7 @@
         </truba11>
         <truba12>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>-62.0124 23.02 3.05176e-05</pos>
+          <pos>-62.0124 23.02 3.05176e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -974,7 +968,7 @@
         </truba12>
         <truba13>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>-60.9992 7.98975 3.05176e-05</pos>
+          <pos>-60.9992 7.98975 3.05176e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -998,7 +992,7 @@
         </truba14>
         <truba15>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>-61.7802 -24.6629 1.52588e-05</pos>
+          <pos>-61.7802 -24.6629 1.52588e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1010,7 +1004,7 @@
         </truba15>
         <truba16>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\truba1</record>
-          <pos>-60.546 -42.0063 1.52588e-05</pos>
+          <pos>-60.546 -42.0063 1.52588e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1142,7 +1136,7 @@
         </strelka1_11>
         <factory0>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\factory</record>
-          <pos>46.8914 -38.8634 3.8147e-06</pos>
+          <pos>46.8914 -38.8634 3.8147e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1154,7 +1148,7 @@
         </factory0>
         <elka17>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\elka</record>
-          <pos>49.482 -95.7973 -1.90735e-06</pos>
+          <pos>49.482 -95.7973 -1.90735e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1166,7 +1160,7 @@
         </elka17>
         <elka18>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\elka</record>
-          <pos>78.7219 -85.8052 9.53674e-06</pos>
+          <pos>78.7219 -85.8052 9.53674e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1178,7 +1172,7 @@
         </elka18>
         <elka19>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\elka</record>
-          <pos>27.0172 -93.1103 1.71661e-05</pos>
+          <pos>27.0172 -93.1103 1.71661e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1190,7 +1184,7 @@
         </elka19>
         <elka20>
           <record lib="world\db\ctDecoration">world\db\root\ctDecoration\World2\elka</record>
-          <pos>12.0677 -90.3881 2.47955e-05</pos>
+          <pos>12.0677 -90.3881 2.47955e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1230,7 +1224,7 @@
         </track10>
         <track40>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track4</record>
-          <pos>35.8419 9.52177 8.2016e-05</pos>
+          <pos>35.8419 9.52177 8.2016e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1242,7 +1236,7 @@
         </track40>
         <track20>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>30.1208 -23.2248 9.53675e-06</pos>
+          <pos>30.1208 -23.2248 9.53675e-006</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1254,7 +1248,7 @@
         </track20>
         <track21>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>3.37872 -23.2559 -7.53403e-05</pos>
+          <pos>3.37872 -23.2559 -7.53403e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 -0.707107 0.707106</rot>
           <life>-1</life>
@@ -1266,9 +1260,9 @@
         </track21>
         <track22>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>3.43915 3.76401 3.14713e-05</pos>
+          <pos>3.43915 3.76401 3.14713e-005</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 -1 -5.06639e-07</rot>
+          <rot>0 0 -1 -5.06639e-007</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1400,7 +1394,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
           <pos>-37.2924 63.2371 2.28662</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 1 -5.06639e-07</rot>
+          <rot>0 0 1 -5.06639e-007</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1484,7 +1478,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp2</record>
           <pos>9.71736 -67.638 2.32398</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 1 -4.3714e-08</rot>
+          <rot>0 0 1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1496,7 +1490,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp2</record>
           <pos>13.8301 -67.6016 1.19912</pos>
           <scale>1 1 1</scale>
-          <rot>0 0 1 -4.3714e-08</rot>
+          <rot>0 0 1 -4.3714e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1566,7 +1560,7 @@
         </tramp27>
         <track27>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track2</record>
-          <pos>85.9752 3.788 -1.43051e-05</pos>
+          <pos>85.9752 3.788 -1.43051e-005</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0.707107 0.707106</rot>
           <life>-1</life>
@@ -1578,7 +1572,7 @@
         </track27>
         <track18>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\track1</record>
-          <pos>91.7462 -18.6892 -1.04904e-05</pos>
+          <pos>91.7462 -18.6892 -1.04904e-005</pos>
           <scale>0.89 1 1</scale>
           <rot>0 0 -0.707107 0.707106</rot>
           <life>-1</life>
@@ -1590,7 +1584,7 @@
         </track18>
         <tramp19>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
-          <pos>-2.37913 -12.3023 1.14441e-05</pos>
+          <pos>-2.37913 -12.3023 1.14441e-005</pos>
           <scale>1.31 1 1</scale>
           <rot>0 0 0.707107 0.707107</rot>
           <life>-1</life>
@@ -1602,7 +1596,7 @@
         </tramp19>
         <tramp110>
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
-          <pos>14.3749 -29.0481 1.14441e-05</pos>
+          <pos>14.3749 -29.0481 1.14441e-005</pos>
           <scale>1.2 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
@@ -1664,7 +1658,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>75.0864 -67.538 1.07209</pos>
           <scale>1.26 1 1</scale>
-          <rot>0 0 -1 5.96046e-08</rot>
+          <rot>0 0 -1 5.96046e-008</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>0</timeLife>
@@ -1736,7 +1730,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>19.1183 68.9865 2.25138</pos>
           <scale>1.4 1 1</scale>
-          <rot>0 0 1 -6.85453e-07</rot>
+          <rot>0 0 1 -6.85453e-007</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1748,7 +1742,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>13.1537 68.9977 2.25137</pos>
           <scale>1.4 1 1</scale>
-          <rot>0 0 1 -6.85453e-07</rot>
+          <rot>0 0 1 -6.85453e-007</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1760,7 +1754,7 @@
           <record lib="world\db\ctTrack">world\db\root\ctTrack\World2\tramp1</record>
           <pos>-18.9722 69.0349 2.25154</pos>
           <scale>1.81 1 1</scale>
-          <rot>0 0 1 -6.85453e-07</rot>
+          <rot>0 0 1 -6.85453e-007</rot>
           <life>-1</life>
           <maxTimeLife>-1</maxTimeLife>
           <timeLife>-1</timeLife>
@@ -1794,34 +1788,151 @@
         </tramp123>
       </items>
     </ctTrack>
-    <ctBonuz>
+    <ctWeapon>
+      <items />
+    </ctWeapon>
+    <ctCar>
+      <items />
+    </ctCar>
+    <ctWaypoint>
+      <items />
+    </ctWaypoint>
+    <ctBonus>
       <items>
-        <spinner0>
-          <record lib="world\db\ctBonuz">world\db\root\ctBonuz\spinner</record>
-          <pos>35.864 10.853 6.22721</pos>
+        <money0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>-129.194 -79.9293 7.34242</pos>
           <scale>1 1 1</scale>
           <rot>0 0 0 1</rot>
           <life>-1</life>
-          <maxTimeLife>-1</maxTimeLife>
+          <maxTimeLife>0</maxTimeLife>
           <timeLife>0</timeLife>
           <behaviors>
             <items />
           </behaviors>
-        </spinner0>
+        </money0>
+        <money1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>-37.4441 44.3036 8.38719</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </money1>
+        <medpack0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
+          <pos>-37.5837 -8.19794 9.58106</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </medpack0>
+        <ammo0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\ammo</record>
+          <pos>-48.7584 -35.4823 9.49877</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </ammo0>
+        <medpack1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
+          <pos>0.857866 10.0474 6.12579</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </medpack1>
+        <money2>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>30.0946 -0.932181 6.25865</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 -1 -5.06639e-007</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </money2>
+        <medpack2>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\medpack</record>
+          <pos>95.6103 -15.2221 6.32483</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </medpack2>
+        <money3>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\money</record>
+          <pos>47.5376 15.1917 6.25865</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 -0.707107 0.707106</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </money3>
+        <mineSpike0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>49.8124 4.16137 6.44688</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike0>
+        <mineSpike1>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\mineSpike</record>
+          <pos>32.9444 -10.7359 6.44683</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0 1</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </mineSpike1>
+        <shield0>
+          <record lib="world\db\ctBonus">world\db\root\ctBonus\shield</record>
+          <pos>-29.1343 -66.8065 9.50162</pos>
+          <scale>1 1 1</scale>
+          <rot>0 0 0.707107 0.707107</rot>
+          <life>-1</life>
+          <maxTimeLife>0</maxTimeLife>
+          <timeLife>0</timeLife>
+          <behaviors>
+            <items />
+          </behaviors>
+        </shield0>
       </items>
-    </ctBonuz>
-    <ctTriggers>
-      <items />
-    </ctTriggers>
-    <ctBonuz>
-      <items />
-    </ctBonuz>
-    <ctTriggerz>
-      <items />
-    </ctTriggerz>
-    <ctWaypoint>
-      <items />
-    </ctWaypoint>
+    </ctBonus>
     <trace>
       <points>
         <point0 id="5">
@@ -1876,7 +1987,7 @@
         </path0>
       </pathes>
     </trace>
-    <sunPos>29,7467 -47,1632 81,63</sunPos>
+    <sunPos>29.7467 -47.1632 81.63</sunPos>
     <sunRot>0.479456 -0.352672 -0.647333 -0.476159</sunRot>
   </map>
 </root>
