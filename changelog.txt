@@ -1,2 +1,4 @@
-Massmod B12 Fix:
-+SRate option disabled.
+Massmod B13:
++Переделан кетчап;
++Исправлена опция syncrate;
++Увеличил габариты "малыш";
